@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Blue T-Shirt",
+    "price": 25,
+    "category": "Clothing",
+    "image": "blue-shirt.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Red Sneakers",
+    "price": 50,
+    "category": "Footwear",
+    "image": "red-sneakers.jpg"
+  }
+]
